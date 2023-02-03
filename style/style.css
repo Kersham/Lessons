@@ -10,3 +10,146 @@ ol,ul{
 a{
     text-decoration: none;
 }
+
+
+/* .block{
+    width: 600px;
+    height: 200px;
+    background-color: brown;
+    position: fixed;
+}
+.block2{
+    width: 250px;
+    height: 150px;
+    background-color: blue;
+    position: absolute;
+    margin: 25px auto;
+}
+.block3{
+    width: 125px;
+    height: 75px;
+    background-color: yellow;
+    margin-left: 125px;
+    margin-top: 75px;
+}
+.block4{
+    width: 85px;
+    height: 85px;
+    background-color: blue;
+    position: absolute;
+    margin-left: 515px;
+}
+.block5{
+    width: 45px;
+    height: 45px;
+    background-color: green;
+    margin: auto;
+    margin-top: 15px;
+} */
+.block1{
+    width: 900px;
+    height: 900px;
+    background-color: black;
+    position: relative;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    margin: auto;
+}
+.block2{
+    width: 850px;
+    height: 850px;
+    background-color: white;
+    position: absolute;
+    margin-left: 50px;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    margin: auto;
+}
+.block3{
+    width: 800px;
+    height: 800px;
+    background-color: black;
+    position: absolute;
+    margin-left: 50px;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    margin: auto;
+}
+.block4{
+    width: 750px;
+    height: 750px;
+    background-color: white;
+    position: absolute;
+    margin-left: 50px;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    margin: auto;
+}
+.block5{
+    width: 500px;
+    height: 500px;
+    background-color: black;
+    position: absolute;
+    margin-left: 50px;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    margin: auto;
+}
+.block6{
+    width: 400px;
+    height: 400px;
+    background-color: white;
+    position: absolute;
+    margin-left: 50px;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    margin: auto;
+}
+.block7{
+    width: 300px;
+    height: 300px;
+    background-color: black;
+    position: absolute;
+    margin-left: 50px;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    margin: auto;
+}
+.block8{
+    width: 200px;
+    height: 200px;
+    background-color: white;
+    position: absolute;
+    margin-left: 50px;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    margin: auto;
+}
+.block9{
+    width: 100px;
+    height: 100px;
+    background-color: black;
+    position: absolute;
+    margin-left: 50px;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    margin: auto;
+}
