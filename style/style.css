@@ -10,3 +10,47 @@ ol,ul{
 a{
     text-decoration: none;
 }
+
+
+.menu-item{
+    display: inline-block;
+    margin: 25px 25px;
+    position: relative;
+}
+
+
+
+
+
+
+
+
+/* .menu-item::before{
+    content: "";
+    position: absolute;
+    height: 2px;
+    width: 0;
+    background: black;
+    bottom: -3px;
+    left: 0;
+    transition: 0.5s;
+} */
+
+.menu-item::before::after{
+    content: "";
+    position: absolute;
+    height: 2px;
+    width: 0;
+    background: black;
+    bottom: -3px;
+    left: 0;
+    transition: 0.5s;
+}
+
+
+
+.menu-item:hover::before{
+    width: 100%;
+    background-color: brown;
+}
+
